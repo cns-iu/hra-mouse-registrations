@@ -1,0 +1,16 @@
+Theiler Stage: TS21
+EMAP Code: EMA146
+Optical Projection Tomography: no
+Anatomical Delineation: Full 3D
+Source: Data provided by <a href='mailto:ruffins@usc.edu'>S.Ruffins</a> (Caltech)
+Notes: MRI (11.7 Tesla, 4 micron) was used to generate these models
+Histological Section: n/a
+3D Voxel Size X,Y,Z: 40.00,40.00,40.00 μm
+Embryo Preparation: 4% PFA
+Strain: C57BL6
+Histological Stain: n/a
+Section Imaging: no
+Embedding Media: Fomblin
+Objective Lens: n/a
+2D Pixel Size X,Y: n/a
+Model: embryo

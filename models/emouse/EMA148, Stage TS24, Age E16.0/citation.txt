@@ -1,0 +1,13 @@
+When citing the EMAP project, or the resources developed as part of EMAP, please use the following text:
+
+    EMAP eMouse Atlas Project (http://www.emouseatlas.org).
+
+and refer to this publication:
+
+    Richardson L, Venkataraman S, Stevenson P, Yang Y, Moss J, Graham L, Burton N, Hill B, Rao J, Baldock RA, Armit C. (2014) , EMAGE mouse embryo spatial gene expression database: (2014 update) Nucleic Acids Res. 42(1):D835-44. doi: 10.1093/nar/gkt1155
+
+When acknowledging the use of data located in the EMAP online resources, please refer to its ID where possible (e.g expressed as EMA:#, where # is the numerical identifier for the EMA anatomy model, and the date (month/year) when the data was retrieved.
+
+When citing the EMA27 (TS14) 3D model please refer to:
+
+R M Brune, J B L Bard, C Dubreuil, E Guest, W Hill, M Kaufman, M Stark, D Davidson, and R A Baldock, A Three-Dimensional Model of the Mouse at Embryonic Day 9, Developmental Biology 216(2) (1999) pp457-68.
