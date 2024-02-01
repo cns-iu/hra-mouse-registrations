@@ -1,0 +1,461 @@
+{
+  "pennsieveDatasetId": 167,
+  "version": 3,
+  "name": "Mouse whole-body with embedded organs",
+  "description": "The generated body scaffold was fitted to data and the organ fiducial markers were embedded in the mouse whole-body. The landmarks were obtained from segmenting MRI data and also were defined in the body scaffold.",
+  "creator": {
+    "first_name": "Elias",
+    "last_name": "Soltani",
+    "orcid": "0000-0003-2042-3783"
+  },
+  "contributors": [
+    {
+      "first_name": "Elias",
+      "last_name": "Soltani",
+      "orcid": "0000-0003-2042-3783"
+    },
+    {
+      "first_name": "Richard",
+      "last_name": "Christie",
+      "orcid": "0000-0003-4336-4640"
+    },
+    {
+      "first_name": "Peter",
+      "last_name": "Hunter",
+      "orcid": "0000-0001-9665-4145"
+    }
+  ],
+  "sourceOrganization": "SPARC",
+  "keywords": [
+    "embed",
+    "lungs",
+    "stomach",
+    "heart",
+    "organ",
+    "whole-body",
+    "bladder",
+    "abdomen",
+    "colon",
+    "mouse",
+    "spinal cord",
+    "head",
+    "thorax"
+  ],
+  "datePublished": "2022-12-16",
+  "license": "Creative Commons Attribution",
+  "@id": "https://doi.org/10.26275/ewog-btml",
+  "publisher": "The University of Pennsylvania",
+  "@context": "http://schema.org/",
+  "@type": "Dataset",
+  "schemaVersion": "http://schema.org/version/3.7/",
+  "files": [
+    {
+      "name": "animal_subject.csv",
+      "path": "metadata/records/animal_subject.csv",
+      "size": 449,
+      "fileType": "CSV",
+      "s3VersionId": "zn9IDXmlgohv69OY5gRV2FMbLF4ajebQ"
+    },
+    {
+      "name": "award.csv",
+      "path": "metadata/records/award.csv",
+      "size": 151,
+      "fileType": "CSV",
+      "s3VersionId": "74Ws37T4MWHqUxIbeNFe1GJC2qDkjLCI"
+    },
+    {
+      "name": "banner.jpg",
+      "path": "banner.jpg",
+      "size": 61572,
+      "fileType": "JPEG",
+      "s3VersionId": "vsRhWNDFzBXWTh53HR0B1fezO3a7aDsh"
+    },
+    {
+      "name": "changelog.md",
+      "path": "changelog.md",
+      "size": 24,
+      "fileType": "Markdown",
+      "s3VersionId": "sYLh4kpnaaerwAPZtzgWuB_xDyTRyb0s"
+    },
+    {
+      "name": "dataset_description.xlsx",
+      "path": "files/dataset_description.xlsx",
+      "size": 13039,
+      "fileType": "MSExcel",
+      "sourcePackageId": "N:package:16b3cc27-8f0c-4ec6-98af-6b812b4dc689",
+      "s3VersionId": "9BQSls.NIwWZ5PUCtIOrXRRR1jW2E0ad"
+    },
+    {
+      "name": "file.csv",
+      "path": "metadata/records/file.csv",
+      "size": 4419,
+      "fileType": "CSV",
+      "s3VersionId": "A.jwFbJkEQKR8o3RbACAtETytA17_.0d"
+    },
+    {
+      "name": "hasContactPerson.csv",
+      "path": "metadata/relationships/hasContactPerson.csv",
+      "size": 574,
+      "fileType": "CSV",
+      "s3VersionId": "BvVV4PJ8Jw5yRn56JxwzpRfZJTTLxYKF"
+    },
+    {
+      "name": "hasResponsiblePrincipalInvestigator.csv",
+      "path": "metadata/relationships/hasResponsiblePrincipalInvestigator.csv",
+      "size": 355,
+      "fileType": "CSV",
+      "s3VersionId": "Vqqp8K1B9Hcj6JYoCfoLEYM58n.jdSXa"
+    },
+    {
+      "name": "human_subject.csv",
+      "path": "metadata/records/human_subject.csv",
+      "size": 335,
+      "fileType": "CSV",
+      "s3VersionId": "Niv2WeuiE__bN1K27m9xf0Il6CgMyQlA"
+    },
+    {
+      "name": "manifest.json",
+      "path": "manifest.json",
+      "size": 14700,
+      "fileType": "Json"
+    },
+    {
+      "name": "manifest.xlsx",
+      "path": "files/derivative/manifest.xlsx",
+      "size": 10566,
+      "fileType": "MSExcel",
+      "sourcePackageId": "N:package:ce125adc-4da2-45d0-8297-407b238054ed",
+      "s3VersionId": "sOXOOKlNWBv.7nWTOkJI4UUzbIoculPH"
+    },
+    {
+      "name": "manifest.xlsx",
+      "path": "files/primary/manifest.xlsx",
+      "size": 9929,
+      "fileType": "MSExcel",
+      "sourcePackageId": "N:package:ff1cc1b3-67a1-44c7-b469-56e1d24abcab",
+      "s3VersionId": "uT7Cqg4yYf8RoMbBS6L.sF6cZw3C6wI0"
+    },
+    {
+      "name": "manifest.xlsx",
+      "path": "files/docs/manifest.xlsx",
+      "size": 9490,
+      "fileType": "MSExcel",
+      "sourcePackageId": "N:package:fdf672c3-f873-4a17-9e1c-22b850973a0e",
+      "s3VersionId": "jq0Kl6T34r7bdAaP74XwhshRUSxhMmyr"
+    },
+    {
+      "name": "mouseBody_10.json",
+      "path": "files/derivative/mouseBody_10.json",
+      "size": 195821,
+      "fileType": "Json",
+      "sourcePackageId": "N:package:013beb9f-78d4-485e-aa20-31fdd1a5f6fc",
+      "s3VersionId": "canXho92lf8KEg3ptoUZsQVWo4uZXE_r"
+    },
+    {
+      "name": "mouseBody_11.json",
+      "path": "files/derivative/mouseBody_11.json",
+      "size": 82685,
+      "fileType": "Json",
+      "sourcePackageId": "N:package:06db7d69-ab89-4a7d-9e3e-ae853c38ed0c",
+      "s3VersionId": "pfb4uqnMkWng2CEMPC7TNTpXiu9UGqH7"
+    },
+    {
+      "name": "mouseBody_12.json",
+      "path": "files/derivative/mouseBody_12.json",
+      "size": 394111,
+      "fileType": "Json",
+      "sourcePackageId": "N:package:8c273335-3b6f-41e9-9999-f1eda6abe2b5",
+      "s3VersionId": "0lqgRguz32KXLv3PiewXRbSPyj3AHYUM"
+    },
+    {
+      "name": "mouseBody_13.json",
+      "path": "files/derivative/mouseBody_13.json",
+      "size": 29274,
+      "fileType": "Json",
+      "sourcePackageId": "N:package:b1e9a159-9647-4cbc-aa42-b2f494c07adc",
+      "s3VersionId": "voRiD5pI_PDkF7IkWKjcH32jAg4uyYhY"
+    },
+    {
+      "name": "mouseBody_14.json",
+      "path": "files/derivative/mouseBody_14.json",
+      "size": 3244911,
+      "fileType": "Json",
+      "sourcePackageId": "N:package:032b43a2-5dd9-4603-996d-a20a10fa201d",
+      "s3VersionId": "PfeJIIx86fHKd4NlrNxx6zZqmDL0D6YQ"
+    },
+    {
+      "name": "mouseBody_15.json",
+      "path": "files/derivative/mouseBody_15.json",
+      "size": 350795,
+      "fileType": "Json",
+      "sourcePackageId": "N:package:e5a3465c-f0a3-4d43-bf44-948a3d4f3194",
+      "s3VersionId": "LIWGUgZeSC5yGMmgreFeC5uqE.Avbfy."
+    },
+    {
+      "name": "mouseBody_16.json",
+      "path": "files/derivative/mouseBody_16.json",
+      "size": 1727006,
+      "fileType": "Json",
+      "sourcePackageId": "N:package:ef6510ef-5b73-48d9-bfac-31d5fad7925b",
+      "s3VersionId": "l2EJBYlVdfp2NEWohb6tg4.ge9WhqqR."
+    },
+    {
+      "name": "mouseBody_17.json",
+      "path": "files/derivative/mouseBody_17.json",
+      "size": 911357,
+      "fileType": "Json",
+      "sourcePackageId": "N:package:3b360191-6403-42cd-995a-c6020bc450d6",
+      "s3VersionId": "ekjGN0Wm_uDlzfyUv7vWgtD2SHJOMEyl"
+    },
+    {
+      "name": "mouseBody_18.json",
+      "path": "files/derivative/mouseBody_18.json",
+      "size": 487367,
+      "fileType": "Json",
+      "sourcePackageId": "N:package:f54a42fc-764c-4884-aa51-9e35c2c50473",
+      "s3VersionId": "y9HUIX5Msx4H230jppeUq_MKLNeJ0gv1"
+    },
+    {
+      "name": "mouseBody_2.json",
+      "path": "files/derivative/mouseBody_2.json",
+      "size": 113945,
+      "fileType": "Json",
+      "sourcePackageId": "N:package:e73c0685-9f24-4794-b02e-bd2ac0d9f32a",
+      "s3VersionId": "hmR1AZgCnAIaUKnrn_KPRz3Y8gqNOoik"
+    },
+    {
+      "name": "mouseBody_3.json",
+      "path": "files/derivative/mouseBody_3.json",
+      "size": 513815,
+      "fileType": "Json",
+      "sourcePackageId": "N:package:80ca6f17-ecb8-45ed-be4a-9c46508c85ed",
+      "s3VersionId": "AALc4BG1imHUrLqYGfgpYfCzTItneMvV"
+    },
+    {
+      "name": "mouseBody_4.json",
+      "path": "files/derivative/mouseBody_4.json",
+      "size": 176383,
+      "fileType": "Json",
+      "sourcePackageId": "N:package:94811377-e6af-4048-97c4-1b35e2254e27",
+      "s3VersionId": "4eC.ahRiwBuCwCse.JJBXbmE9Y4Aiq6H"
+    },
+    {
+      "name": "mouseBody_5.json",
+      "path": "files/derivative/mouseBody_5.json",
+      "size": 404296,
+      "fileType": "Json",
+      "sourcePackageId": "N:package:951059f0-8db1-4607-a798-4720479edd2b",
+      "s3VersionId": "LTMGYEDGo8nNSlZY01iV9dq4tYmIBUSS"
+    },
+    {
+      "name": "mouseBody_6.json",
+      "path": "files/derivative/mouseBody_6.json",
+      "size": 8072,
+      "fileType": "Json",
+      "sourcePackageId": "N:package:01f8c31f-4620-4f32-98df-f53da0e779d4",
+      "s3VersionId": "MP4H0ya_dLfsZSHD0NmW4fXIoFMAbmgQ"
+    },
+    {
+      "name": "mouseBody_7.json",
+      "path": "files/derivative/mouseBody_7.json",
+      "size": 2295359,
+      "fileType": "Json",
+      "sourcePackageId": "N:package:43acd5b4-c8b7-440c-be72-0c149c3ed0ca",
+      "s3VersionId": "6PMQaPo5KvBpHEDtnDW3tN44U4l9zIMQ"
+    },
+    {
+      "name": "mouseBody_8.json",
+      "path": "files/derivative/mouseBody_8.json",
+      "size": 809959,
+      "fileType": "Json",
+      "sourcePackageId": "N:package:ccbfd5d3-2986-4416-b58b-559c5b1e67e0",
+      "s3VersionId": "DLSH0VOLsEFhPBcfwFToN7r0n4uUOHiC"
+    },
+    {
+      "name": "mouseBody_9.json",
+      "path": "files/derivative/mouseBody_9.json",
+      "size": 16480,
+      "fileType": "Json",
+      "sourcePackageId": "N:package:60be5abf-e32d-4f36-897b-d678ed47b037",
+      "s3VersionId": "4GoKSuCjIHyWSZV6bQHfOkPON7lCAkaa"
+    },
+    {
+      "name": "mouseBody_metadata.json",
+      "path": "files/derivative/mouseBody_metadata.json",
+      "size": 3560,
+      "fileType": "Json",
+      "sourcePackageId": "N:package:b2e3ad1c-f9e3-4e9c-9dd8-69de557cdfec",
+      "s3VersionId": "K_iNSnQV1sRuNFDlYgvdGzKkUZV1S7ye"
+    },
+    {
+      "name": "mouseBody_view.json",
+      "path": "files/derivative/mouseBody_view.json",
+      "size": 186,
+      "fileType": "Json",
+      "sourcePackageId": "N:package:c596c2f8-f849-47ea-9401-619577f164cf",
+      "s3VersionId": "vdoI2encXBF41zQorluCfK04TTynB4e5"
+    },
+    {
+      "name": "mouseWholeBody_annotations.csv",
+      "path": "files/docs/mouseWholeBody_annotations.csv",
+      "size": 1897,
+      "fileType": "CSV",
+      "sourcePackageId": "N:package:2d05a64f-8d94-4d8d-b75a-ffc4ff7660d4",
+      "s3VersionId": "jrcp6HAJauf8mJBRU4h5nGkY2RaV5kOp"
+    },
+    {
+      "name": "mouse_annotations.csv",
+      "path": "files/derivative/mouse_annotations.csv",
+      "size": 1897,
+      "fileType": "CSV",
+      "sourcePackageId": "N:package:cdf4a525-138f-4483-bc22-a9b0fecf8a59",
+      "s3VersionId": "xju6p.HkT4lTegBhs0yll1nLobJfFcoi"
+    },
+    {
+      "name": "mouse_provenance.json",
+      "path": "files/primary/mouse_provenance.json",
+      "size": 5538,
+      "fileType": "Json",
+      "sourcePackageId": "N:package:7db61ddf-c57c-4527-a5dc-cc2c84c0759b",
+      "s3VersionId": "a3YhVbf6lWSEZF7BwK.y0b1JZhy_Er.M"
+    },
+    {
+      "name": "mouse_with_organs.png",
+      "path": "files/primary/mouse_with_organs.png",
+      "size": 935260,
+      "fileType": "PNG",
+      "sourcePackageId": "N:package:87e2e415-eb65-434f-adf7-f523efdc3879",
+      "s3VersionId": "DXzZm1ku8My_5oIwe8r7LHOdiBAuhmgR"
+    },
+    {
+      "name": "protocol.csv",
+      "path": "metadata/records/protocol.csv",
+      "size": 95,
+      "fileType": "CSV",
+      "s3VersionId": "pablW.04xaieKq7zjRzCHvpJ3KnQsD50"
+    },
+    {
+      "name": "readme.md",
+      "path": "readme.md",
+      "size": 1409,
+      "fileType": "Markdown",
+      "s3VersionId": "pc3uq1l8vNA617pAxF_3sonFJwqD2Cfu"
+    },
+    {
+      "name": "researcher.csv",
+      "path": "metadata/records/researcher.csv",
+      "size": 609,
+      "fileType": "CSV",
+      "s3VersionId": "i841zjklduveIsBZ4GCmG_w1TwOUeUSE"
+    },
+    {
+      "name": "sample.csv",
+      "path": "metadata/records/sample.csv",
+      "size": 185,
+      "fileType": "CSV",
+      "s3VersionId": "lpFWDfFTwrj65DmNQCsQRbRTUk1t7X.t"
+    },
+    {
+      "name": "scaffold_context_info.json",
+      "path": "files/derivative/scaffold_context_info.json",
+      "size": 559,
+      "fileType": "Json",
+      "sourcePackageId": "N:package:85b2f468-59ae-46b4-b172-eb17ab11de5d",
+      "s3VersionId": "CSmmm62rD5oHdisrqXgp06EecGR7wQAi"
+    },
+    {
+      "name": "schema.json",
+      "path": "metadata/schema.json",
+      "size": 30618,
+      "fileType": "Json",
+      "s3VersionId": "swuDRuSES05XB3rsv.GtHBYI8C.xAlhW"
+    },
+    {
+      "name": "summary.csv",
+      "path": "metadata/records/summary.csv",
+      "size": 2982,
+      "fileType": "CSV",
+      "s3VersionId": "TMdilAX7tGWPYsEct_032eZaF9LHMZp0"
+    },
+    {
+      "name": "term.csv",
+      "path": "metadata/records/term.csv",
+      "size": 86,
+      "fileType": "CSV",
+      "s3VersionId": "Is0Ob4pcvlwwq9eKUo7wlY9QBMSkj9jO"
+    },
+    {
+      "name": "thumbnail.jpg",
+      "path": "files/derivative/thumbnail.jpg",
+      "size": 212212,
+      "fileType": "JPEG",
+      "sourcePackageId": "N:package:8aeee4d2-0b5e-4fc9-b79e-252f348b17d3",
+      "s3VersionId": "rto8yHsdKu3JXfLPXHrsuQMKW7IlGo8j"
+    },
+    {
+      "name": "view.cmgui",
+      "path": "files/primary/view.cmgui",
+      "size": 10080,
+      "fileType": "GenericData",
+      "sourcePackageId": "N:package:5cd4e502-ad1a-4533-88dd-ce178efa9817",
+      "s3VersionId": "PoVOHrLfjvoYfwPX3aSFwNs_0im2ybjR"
+    },
+    {
+      "name": "whole-bladder.exf",
+      "path": "files/primary/whole-bladder.exf",
+      "size": 203374,
+      "fileType": "GenericData",
+      "sourcePackageId": "N:package:d54be6a6-ef1a-4613-9217-748065b603c7",
+      "s3VersionId": "kUNUojUueEW6QwxyLaM44Gl45n1543kH"
+    },
+    {
+      "name": "whole-body.exf",
+      "path": "files/primary/whole-body.exf",
+      "size": 1621081,
+      "fileType": "GenericData",
+      "sourcePackageId": "N:package:b75dbe1a-c8e2-46e0-b867-ec59b02944aa",
+      "s3VersionId": "isETxKOjzxvll.Q03CCvOhcn0KpQYZxq"
+    },
+    {
+      "name": "whole-brainstem.exf",
+      "path": "files/primary/whole-brainstem.exf",
+      "size": 2187620,
+      "fileType": "GenericData",
+      "sourcePackageId": "N:package:a37998f7-cc1a-4b22-8f40-5d2b46df675b",
+      "s3VersionId": "Fl5ov0DYzXlKj6WMPN5pD.QB7REik1Mj"
+    },
+    {
+      "name": "whole-colon.exf",
+      "path": "files/primary/whole-colon.exf",
+      "size": 1689862,
+      "fileType": "GenericData",
+      "sourcePackageId": "N:package:0b66f315-eb33-478f-99e8-b549cb375684",
+      "s3VersionId": "DCO6w_96uMqYo276VcXKR52u8HL3XkpO"
+    },
+    {
+      "name": "whole-heart.exf",
+      "path": "files/primary/whole-heart.exf",
+      "size": 2086364,
+      "fileType": "GenericData",
+      "sourcePackageId": "N:package:4f913c4c-e5d3-4803-8915-216c673d86b1",
+      "s3VersionId": "D39YeHiWQirY.qimk6UE5Me2DhizQ6aj"
+    },
+    {
+      "name": "whole-lung.exf",
+      "path": "files/primary/whole-lung.exf",
+      "size": 564646,
+      "fileType": "GenericData",
+      "sourcePackageId": "N:package:8b52fd1c-c27d-4a46-8fcb-9b6b1c25d5ac",
+      "s3VersionId": "HN9yO_lg2YSJaqL.Cn7pjnDyopoVcxxD"
+    },
+    {
+      "name": "whole-stomach.exf",
+      "path": "files/primary/whole-stomach.exf",
+      "size": 737422,
+      "fileType": "GenericData",
+      "sourcePackageId": "N:package:5fc65000-54dd-4f92-ad17-5161ac712abb",
+      "s3VersionId": "uYNpGc4FMjLNQiINHh1dcmqMESoQyGrl"
+    }
+  ],
+  "pennsieveSchemaVersion": "4.0"
+}

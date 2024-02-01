@@ -1,0 +1,142 @@
+[
+   {
+      "GroupName" : "whole-brainstem",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Lines",
+      "URL" : "mouseBody_2.json"
+   },
+   {
+      "GroupName" : "whole-brainstem",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Surfaces",
+      "URL" : "mouseBody_3.json"
+   },
+   {
+      "GroupName" : "whole-bladder",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Lines",
+      "URL" : "mouseBody_4.json"
+   },
+   {
+      "GroupName" : "whole-body",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Surfaces",
+      "URL" : "mouseBody_5.json"
+   },
+   {
+      "GroupName" : "diaphragm",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Lines",
+      "URL" : "mouseBody_6.json"
+   },
+   {
+      "GroupName" : "whole-colon",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Surfaces",
+      "URL" : "mouseBody_7.json"
+   },
+   {
+      "GroupName" : "whole-bladder",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Surfaces",
+      "URL" : "mouseBody_8.json"
+   },
+   {
+      "GroupName" : "spinal cord",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Surfaces",
+      "URL" : "mouseBody_9.json"
+   },
+   {
+      "GroupName" : "whole-stomach",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Lines",
+      "URL" : "mouseBody_10.json"
+   },
+   {
+      "GroupName" : "whole-lung",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Lines",
+      "URL" : "mouseBody_11.json"
+   },
+   {
+      "GroupName" : "whole-lung",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Surfaces",
+      "URL" : "mouseBody_12.json"
+   },
+   {
+      "GroupName" : "diaphragm",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Surfaces",
+      "URL" : "mouseBody_13.json"
+   },
+   {
+      "GroupName" : "whole-body",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Surfaces",
+      "URL" : "mouseBody_14.json"
+   },
+   {
+      "GroupName" : "whole-heart",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Lines",
+      "URL" : "mouseBody_15.json"
+   },
+   {
+      "GroupName" : "whole-heart",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Surfaces",
+      "URL" : "mouseBody_16.json"
+   },
+   {
+      "GroupName" : "whole-stomach",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Surfaces",
+      "URL" : "mouseBody_17.json"
+   },
+   {
+      "GroupName" : "whole-colon",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Lines",
+      "URL" : "mouseBody_18.json"
+   },
+   {
+      "Type" : "View",
+      "URL" : "mouseBody_view.json"
+   }
+]

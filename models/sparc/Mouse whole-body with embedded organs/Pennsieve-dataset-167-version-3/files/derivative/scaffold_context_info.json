@@ -1,0 +1,17 @@
+{
+  "description": "Annotated mouse whole-body scaffold with embedded organs inlcuding heart, lungs, stomach, colon, bladder and brainstem.",
+  "heading": "Mouse whole-body with embedded organs",
+  "id": "sparc.science.context_data",
+  "samples": [],
+  "version": "0.1.0",
+  "views": [
+    {
+      "annotation": "UBERON:0000468",
+      "description": "mouse whole-body with embedded organs",
+      "id": "View 1",
+      "path": "derivative\\mouseBody_view.json",
+      "sample": "--",
+      "thumbnail": "derivative\\thumbnail.png"
+    }
+  ]
+}
