@@ -5,7 +5,7 @@
 Four STL files were provided, see [here](models/melov/). These four models show:
 
 - whole mouse
-- dense muscle (this model is too large for GitHub, so we deopisted it on [Google Drive](https://drive.google.com/drive/folders/1dPacP1yNMPnQvoqJdwNh5rd6FNZe7Dgg?usp=sharing))
+- dense muscle (this model is too large for GitHub, so we deposited it on [Google Drive](https://drive.google.com/drive/folders/1dPacP1yNMPnQvoqJdwNh5rd6FNZe7Dgg?usp=sharing))
 - brain at 12 months
 - brain 3D, 20 IT
 
