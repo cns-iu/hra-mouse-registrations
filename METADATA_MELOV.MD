@@ -2,7 +2,7 @@
 
 ## Overview
 
-Four STL files were provided, see [here](models/melov/). These four models show:
+Four STL files were provided. One is too big to easily upload to GitHub, so three models are shown [here](models/melov/). All four models show:
 
 - whole mouse
 - dense muscle (this model is too large for GitHub, so we deposited it on [Google Drive](https://drive.google.com/drive/folders/1dPacP1yNMPnQvoqJdwNh5rd6FNZe7Dgg?usp=sharing))
