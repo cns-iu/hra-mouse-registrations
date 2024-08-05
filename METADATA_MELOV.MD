@@ -1,6 +1,15 @@
 # Data
 
-## Overview
+## Overview DICOMs (8/5/24)
+A stack with 275 DICOM images were shared by Simon. Andi uses bee DICOM viewer to visualize them:
+
+- triple view:
+![](images/melov/dicom_1.png)
+
+- 3D view: 
+![](images/melov/dicom_2.png)
+
+## Overview 3D models (pre-August 2024)
 
 Four STL files were provided. One is too big to easily upload to GitHub, so three models are shown [here](models/melov/). All four models show:
 
