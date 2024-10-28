@@ -45,7 +45,9 @@ From [https://www.researchgate.net/figure/Large-scale-structure-of-the-mouse-lun
 
 ## Lung
 
-7 blocks positioned, the team receives the lung tissues only from JAX
+7 blocks positioned, the team receives the lung tissues only from JAX.
+
+**Update 10/28/24**: Adjusted positions for IHC (left middle) and unbiased (right), removed 2 from left lobe.
 
 ![A screenshot of the lung with arrows for extraction sites](images/emouse/lung1.png)
 ![A second screenshot of the lung with arrows for extraction sites, dorsal view](images/emouse/lung2.png)
