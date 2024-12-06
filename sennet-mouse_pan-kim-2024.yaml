@@ -1,0 +1,38 @@
+- consortium_name: SenNet
+  provider_name: Sojin Kim
+  provider_uuid: 96C6076A-B3DC-11EF-A8B4-7E6DEE00831F
+  defaults:
+    id:
+    thumbnail: assets/icons/ico-unknown.svg
+  donors:
+  - id: 09fb8e6cbb0f3dff3c4776afc44b4372
+    species: mus musculus
+    sex:
+    age:
+    link: https://data.sennetconsortium.org/source?uuid=09fb8e6cbb0f3dff3c4776afc44b4372/
+    samples:
+    - id: 51c882ac3536ac3b050446aa89633fb2
+      label: SNA-520-23
+      link: https://data.sennetconsortium.org/sample?uuid=51c882ac3536ac3b050446aa89633fb2/
+      blender_location: lung_left_lobe_middle_IMMUNOHISTOCHEMISTRY_FFPE
+      technology: IHC
+    - id:
+      label: SNA-521-23
+      link: 
+      blender_location: lung_post_caval_lobe
+      technology: 
+    - id:
+      label: SNA-522-23
+      link: 
+      blender_location: lung_right_lobe_bottom_UNBIASED_BULK_RNA_SEQ
+      technology: RNASeq
+    - id:
+      label: SNA-523-23
+      link: 
+      blender_location: lung_right_lobe_middle_UNBIASED_BULK_RNA_SEQ
+      technology: RNASeq
+    - id:
+      label: SNA-549-23
+      link: 
+      blender_location: lung_right_lobe_up_UNBIASED_BULK_RNA_SEQ
+      technology: RNASeq
