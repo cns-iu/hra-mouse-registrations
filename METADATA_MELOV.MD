@@ -1,5 +1,9 @@
 # Data
 
+## Data shared in February 2025
+Simon shares: 3D model of female mouse - ovary, lung, kidney, and partial skeleton (for reference). Muscle coming next week.
+![](images/melov/whole_female.png)
+
 ## Overview DICOMs (8/5/24)
 A stack with 275 DICOM images were shared by Simon. Andi uses bee DICOM viewer to visualize them:
 
